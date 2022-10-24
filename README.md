@@ -1,0 +1,2 @@
+# augure
+Guia de Tarot
