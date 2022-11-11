@@ -20,8 +20,8 @@
 💬
 ## Descrição 
 
-Jogo de Tarot com sorteio de cartas.
-Também trago um pouco sobre a origem do jogo e algumas curiosidades.
+Jogo de Tarot com sorteio de cartas. <br/>
+Também trago um pouco sobre a origem do jogo e algumas curiosidades. 
 
 
 ⚙️
@@ -38,9 +38,14 @@ Também trago um pouco sobre a origem do jogo e algumas curiosidades.
 ✔️
 ## Funcionalidades
 
-Lorem ipsum dolor sit amet. Eos laudantium quod est explicabo consectetur eum adipisci velit aut dolores laudantium. Et consequatur voluptates et dolor harum est internos officiis rem tempore perferendis sit libero eaque aut modi magni in eligendi quia! Est ipsa laborum nam nulla molestiae est perspiciatis temporibus At sunt officia ut libero quia et suscipit modi ea quis ratione!
-
-Ut veritatis repudiandae ex placeat quia eum sunt consequatur in sapiente ducimus id praesentium error in consectetur enim! Eum molestiae culpa qui voluptatem sequi qui culpa autem At nisi amet hic soluta nulla. Est dolores excepturi sit quasi dolor et mollitia odio ex voluptas error? 33 autem itaque qui impedit voluptatum ab quaerat architecto est consequatur cumque qui numquam sint et autem molestiae.
+ A aplicação é desenvolvida para todos os públicos interessados no tarot. Desde iniciantes à conhecedores e apreciadores, é
+possível ter acesso a algumas funcionalidades que permitem conhecer e experimentar esta ferramenta de auto-conhecimento.
+<br/> Ao adentrar, o usuário pode visualizar quatro botões que o redirecionam para quatro páginas da aplicação. 
+<br/> Na primeira, o usuário aprende como utilizar a aplicação. 
+<br/> Ao acessar a segunda página, é permitido ao usuário navegar entre as 78 cartas do baralho do tarot e ao acessar as cartas recebe as informações da mesma.
+<br/> Para os iniciantes a terceira página permite conhecer toda a origem do tarot desde os primórdios. 
+<br/> Por último, na quarta página, algumas curiosidades acerca do tarot para que o usuário se aprofunde um pouco mais. 
+<br/> Ao final, seguem links para contato via redes sociais e GitHub.
 
 🔗
 ## Link para o Projeto 
